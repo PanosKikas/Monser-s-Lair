@@ -17,7 +17,9 @@
 
 ![SellGif](./sell.gif)  
 
-- Upgrade Turrets
+- Upgrade Turrets  
+
+![UpgradeGif](./upgrade.gif)  
 
 - Game Snippet
 
