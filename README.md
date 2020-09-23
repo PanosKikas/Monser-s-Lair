@@ -8,3 +8,12 @@
 - Level Select Scene
 
 ![LevelSelectScene](./LevelSelectScene.png)  
+
+- Build Mehanics  
+
+![BuilGif](./BuildTurret.gif)  
+
+- Sell Mechanics  
+
+- Upgrade Turrets
+
