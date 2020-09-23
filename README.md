@@ -20,3 +20,8 @@
 - Game Snippet
 
 ![MainGameGif](./maingame.gif)  
+
+- Level Complete
+
+
+- Game Over
