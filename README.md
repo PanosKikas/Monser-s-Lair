@@ -22,6 +22,6 @@
 ![MainGameGif](./maingame.gif)  
 
 - Level Complete
-
+![LevelCompleteGif](./levelcomplete.gif)  
 
 - Game Over
