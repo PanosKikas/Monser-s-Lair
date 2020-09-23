@@ -11,9 +11,12 @@
 
 - Build Mehanics  
 
-![BuilGif](./BuildTurret.gif)  
+![BuildGif](./BuildTurret.gif)  
 
 - Sell Mechanics  
 
 - Upgrade Turrets
 
+- Game Snippet
+
+![BuilGif](./MainGameSnippet.gif)  
