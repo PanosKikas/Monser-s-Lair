@@ -15,14 +15,18 @@
 
 - Sell Mechanics  
 
+![SellGif](./sell.gif)  
+
 - Upgrade Turrets
 
 - Game Snippet
 
 ![MainGameGif](./maingame.gif)  
 
-- Level Complete
+- Level Complete  
+
 ![LevelCompleteGif](./levelcomplete.gif)  
 
-- Game Over
+- Game Over  
+
 ![GameoverGif](./gameover.gif)  
