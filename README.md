@@ -11,17 +11,24 @@
 
 - Build Mehanics  
 
-![BuildGif](./BuildTurret.gif)  
+![BuildGif](./build.gif)  
 
 - Sell Mechanics  
 
-- Upgrade Turrets
+![SellGif](./sell.gif)  
+
+- Upgrade Turrets  
+
+![UpgradeGif](./upgrade.gif)  
 
 - Game Snippet
 
 ![MainGameGif](./maingame.gif)  
 
-- Level Complete
+- Level Complete  
+
 ![LevelCompleteGif](./levelcomplete.gif)  
 
-- Game Over
+- Game Over  
+
+![GameoverGif](./gameover.gif)  
