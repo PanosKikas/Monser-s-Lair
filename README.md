@@ -2,4 +2,4 @@
 
 ## Features:
 - Main Menu Scene  
-![MainMenuScene](./)
+![MainMenuScene](./MainMenuScene.png)
