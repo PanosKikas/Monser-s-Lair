@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e774956efc243c94dbd0806aefd09f25
+timeCreated: 1496571311
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jackpot Demo
+  fontNames:
+  - Jackpot Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
