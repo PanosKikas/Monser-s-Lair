@@ -11,7 +11,7 @@
 
 - Build Mehanics  
 
-![BuildGif](./BuildTurret.gif)  
+![BuildGif](./build.gif)  
 
 - Sell Mechanics  
 
