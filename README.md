@@ -1,4 +1,4 @@
-# Monser's Lair - A 2D tower defense game built on Unity Engine
+# Monser's Lair - A 2D Tower Defense Game built on Unity Engine
 
 ## Features:
 - Animated Main Menu Scene: 
