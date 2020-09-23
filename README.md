@@ -19,4 +19,4 @@
 
 - Game Snippet
 
-![BuilGif](./MainGameSnippet.gif)  
+![MainGameGif](./maingame.gif)  
